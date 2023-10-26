@@ -41,5 +41,8 @@ module.exports = {
   // add rules configurations here
   rules: {
     "import/no-default-export": "off",
+    "quotes": ["error", "single"],
+    "@typescript-eslint/no-explicit-any": "warn",
+    "react/function-component-definition": "off",
   },
 };
