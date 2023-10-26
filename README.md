@@ -1,6 +1,6 @@
-# Grof Document Generator
+# Turborepo starter
 
-Tool that can take a docx file as input and convert it into a PDF file that can be filled and signed electronically. This tool can be used to automate the process of generating documents that require signatures, such as contracts, agreements, and forms. The generated PDF file can be easily distributed and signed electronically, eliminating the need for printing, scanning, and mailing physical copies of the document. This can save time and money, and also reduce the environmental impact of paper-based document workflows.
+To kickstart typescript projects using turborepo.
 
 ## Installation
 
